@@ -1,0 +1,6 @@
+/* Personaliza los botones de navegación del Swiper */
+/* Ocultar botones de navegación de Swiper */
+.swiper-button-prev,
+.swiper-button-next {
+  display: none;
+}

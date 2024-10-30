@@ -1,0 +1,19 @@
+{
+  "global": {
+    "ingles": "Inglese",
+    "espanol": "Spagnolo",
+    "aleman": "Tedesco",
+    "italiano": "Italiano",
+    "frances": "Francese",
+    "japones": "Giapponese",
+    "catalan": "Catalano",
+    "mandarin": "Mandarino",
+    "arabe": "Arabo",
+    "hindi": "Hindi",
+    "idioma": "Lingua",
+    "eligeIdioma": "Scegli una lingua",
+    "poweredBy": "Alimentato da Parabellam",
+    "prioritizeSecurity": "Dai priorità alla tua sicurezza con",
+    "chooseLanguage": "Scegli una lingua"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "global": {
+    "ingles": "英语",
+    "espanol": "西班牙语",
+    "aleman": "德语",
+    "italiano": "意大利语",
+    "frances": "法语",
+    "japones": "日语",
+    "catalan": "加泰罗尼亚语",
+    "mandarin": "普通话",
+    "arabe": "阿拉伯语",
+    "hindi": "印地语",
+    "idioma": "语言",
+    "eligeIdioma": "选择一种语言",
+    "poweredBy": "由 Parabellam 提供支持",
+    "prioritizeSecurity": "优先考虑您的安全",
+    "chooseLanguage": "选择一种语言"
+  }
+}

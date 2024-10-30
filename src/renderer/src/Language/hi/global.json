@@ -1,0 +1,19 @@
+{
+  "global": {
+    "ingles": "अंग्रेज़ी",
+    "espanol": "स्पेनिश",
+    "aleman": "जर्मन",
+    "italiano": "इतालवी",
+    "frances": "फ़्रेंच",
+    "japones": "जापानी",
+    "catalan": "कैटलन",
+    "mandarin": "मंदारिन",
+    "arabe": "अरबी",
+    "hindi": "हिंदी",
+    "idioma": "भाषा",
+    "eligeIdioma": "एक भाषा चुनें",
+    "poweredBy": "पराबेलम द्वारा संचालित",
+    "prioritizeSecurity": "अपनी सुरक्षा को प्राथमिकता दें",
+    "chooseLanguage": "एक भाषा चुनें"
+  }
+}

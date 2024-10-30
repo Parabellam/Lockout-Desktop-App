@@ -1,0 +1,19 @@
+{
+  "global": {
+    "ingles": "英語",
+    "espanol": "スペイン語",
+    "aleman": "ドイツ語",
+    "italiano": "イタリア語",
+    "frances": "フランス語",
+    "japones": "日本語",
+    "catalan": "カタルーニャ語",
+    "mandarin": "中国語",
+    "arabe": "アラビア語",
+    "hindi": "ヒンディー語",
+    "idioma": "言語",
+    "eligeIdioma": "言語を選択",
+    "poweredBy": "パラベラムによって提供されています",
+    "prioritizeSecurity": "セキュリティを優先してください",
+    "chooseLanguage": "言語を選択"
+  }
+}
